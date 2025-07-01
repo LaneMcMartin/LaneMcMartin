@@ -1,5 +1,7 @@
+![image](welcome_pixelated.gif)
+
 - 👋 Hi, I’m @LaneMcMartin!
-- 👀 I’m interested in embedded system programming, hardware design, and signal processing!
+- 👀 I’m interested in embedded system programming and
 - 🌱 I’m currently learning how to make games in the Unity and Godot engines!
 - 💞️ I’m looking to collaborate on cool things!
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/lanemcmartin/) or check out my epic [website](https://lanemcmartin.github.io/)!
